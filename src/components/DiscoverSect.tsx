@@ -30,7 +30,7 @@ export const DiscoverSect: React.FC<Props> = ({}) => {
           </div>
           <div
             className={Styles.DiscoverCard2}
-            style={{ backgroundImage: "url(card2pic.png)" }}
+            style={{ backgroundImage: "url(card2pic.jpg)" }}
           ></div>
         </div>
       </div>
