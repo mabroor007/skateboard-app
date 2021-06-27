@@ -1,5 +1,8 @@
 # Skateboard app
 
+Just a simple website built to learn and practice tailwind css
+i built this only one day day after learning tailwindcss
+
 #### Built with
 
 - tailwind_css
