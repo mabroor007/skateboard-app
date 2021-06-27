@@ -1,11 +1,19 @@
 # Skateboard app
 
-Using typescript, react, tailwind_css
+#### Built with
 
-Checkout
+- tailwind_css
+- typescript
+- react
+
+
+# Link
 [link](https://frosty-visvesvaraya-4a2dc6.netlify.app/)
 
+# Screenshots
 
-![Image Preview](https://raw.githubusercontent.com/mabroor007/skateboard-app/master/SkateboardProject.jpg "Skateboard-App")
+#### Desktop
+<img src="https://raw.githubusercontent.com/mabroor007/skateboard-app/master/SkateboardProject.jpg" width="100%" height="auto"/>
 
-![Image Preview](https://raw.githubusercontent.com/mabroor007/skateboard-app/master/SkateboardProjectPhone.png "Skateboard-App")
+#### Mobile
+<img src="https://raw.githubusercontent.com/mabroor007/skateboard-app/master/SkateboardProjectPhone.png" width="400px" height="auto"/>
